@@ -1,0 +1,9 @@
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/DatabaseServiceProjectApplication.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/beans/BoardGame.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/beans/ErrorMessage.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/beans/Review.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/controllers/BoardGameController.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/controllers/HomeController.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/database/DatabaseAccess.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/security/LoggingAccessDeniedHandler.java
+/root/end-to-end-CI-CD-pipeline/src/main/java/com/javaproject/security/SecurityConfig.java
